@@ -1,0 +1,11 @@
+
+  html{
+    /* la imagen a ser mostrada a pantalla completa */
+    background:url('https://i.pinimg.com/736x/72/23/2f/72232f3882a0fd81b6085c4d3437c5b0.jpg') no-repeat center center;
+ 
+    /* nos aseguramos que el elemento ocupe toda la ventana del navegador */
+    min-height:100%;
+ 
+    /* Propiedad a utilizar para la imagen */
+    background-size:cover;
+}
